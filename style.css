@@ -1,0 +1,64 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+   #Background{
+    width: 950px;
+    border: 4px solid black;
+    background-color: silver;
+    margin: 0px auto;
+   }
+   .redbox{
+    height: 150px;
+    width: 400px;
+    border: 4px solid black;
+    background-color: red;
+    display: inline-block;
+    padding-right: 10px;
+    margin:25px;
+   }
+   #bluebox{
+    height: 200px;
+    width: 892px;
+    margin: 25px;
+    border: 4px solid black;
+    background-color: blue;
+   }
+   .yellowbox{
+    height: 100px;
+    width: 255px;
+    margin: 25px;
+    border: 4px solid black;
+    background-color: yellow;
+    display: inline-block;
+   }
+   .purplebox{
+    height: 90px;
+    width: 150px;
+    margin-left: 25px;
+    border: 4px solid black;
+    background-color: purple;
+    margin-right: 100px;
+    display: inline-block;
+    margin-top: 10px;
+   }
+   #rightred{
+       float: right;
+   }
+   #right{
+    float: right;
+   }
+   #rightyel{
+    float: right;
+   }
+   #midyel{
+    float: left;
+   }
+   #greenbox{
+    height: 120px;
+    width: 892px;
+    border: 4px solid black;
+    background-color:green;
+    margin: 25px;
+   }
